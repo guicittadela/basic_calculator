@@ -1,0 +1,15 @@
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.exe
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.deps.json
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.json
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.dev.json
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.pdb
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.Form1.resources
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfo.cs
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.pdb
+C:\Users\guici\source\repos\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.genruntimeconfig.cache
